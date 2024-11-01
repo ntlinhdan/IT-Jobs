@@ -1,0 +1,34 @@
+.title{
+    text-align: center;
+    margin: 40px 0;
+  }
+  .custom-form{
+    width: 100%;
+  }
+  .custom-row{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+  .custom-col {
+    margin: 0 1px;
+    flex: 1; 
+  }
+  .custom-button,
+  .custom-select, 
+  .custom-input{
+    height: 50px;
+    width: 100%;
+  }
+  .custom-button{
+    background-color: #004087;
+    color: #fff;
+    // height: 50px;
+  }
+  .custom-select{
+    // height: 50px;
+    width: 100%;
+  }
+  .custom-input{
+    
+  }
